@@ -74,3 +74,4 @@ C:\Users\Lenovo\Documents\Projects\CodePulse\API\CodePulse.API\CodePulse.API\obj
 C:\Users\Lenovo\Documents\Projects\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.pdb
 C:\Users\Lenovo\Documents\Projects\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.genruntimeconfig.cache
 C:\Users\Lenovo\Documents\Projects\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\ref\CodePulse.API.dll
+C:\Users\Lenovo\Documents\Projects\CodePulse\API\CodePulse.API\CodePulse.API\obj\Debug\net7.0\CodePulse.API.sourcelink.json

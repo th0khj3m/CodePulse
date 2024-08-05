@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\models\\dto\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|c:\\users\\lenovo\\documents\\projects\\codepulse\\api\\codepulse.api\\codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0539EAF-75D1-4155-AC28-322F8A3665B1}|CodePulse.API\\CodePulse.API.csproj|solutionrelative:codepulse.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAnwCMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:07:30.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCategoryRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDTO.cs",
+              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDTO.cs",
+              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\UpdateCategoryRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:02:22.749Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -40,21 +62,10 @@
               "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
               "RelativeToolTip": "CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:52:09.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T02:25:01.587Z"
+              "WhenOpened": "2024-08-02T09:52:09.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,34 +75,10 @@
               "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAADwv30AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T09:29:39.907Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateCategoryRequestDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
-              "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:43:17.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
-              "RelativeDocumentMoniker": "CodePulse.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Program.cs",
-              "RelativeToolTip": "CodePulse.API\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:08:17.665Z"
             }
           ]
         }
