@@ -42,8 +42,7 @@
               "RelativeToolTip": "CodePulse.API\\Repositories\\Interface\\ICategoryRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:52:09.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T09:52:09.836Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "CodePulse.API\\Repositories\\Implementation\\CategoryRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T02:25:01.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T02:25:01.587Z"
             },
             {
               "$type": "Document",
@@ -66,7 +64,7 @@
               "RelativeDocumentMoniker": "CodePulse.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Projects\\CodePulse\\API\\CodePulse.API\\CodePulse.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "CodePulse.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wD8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T09:29:39.907Z",
               "EditorCaption": ""
@@ -81,8 +79,7 @@
               "RelativeToolTip": "CodePulse.API\\Models\\DTO\\CreateCategoryRequestDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:43:17.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:43:17.897Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "CodePulse.API\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T09:08:17.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:08:17.665Z"
             }
           ]
         }
